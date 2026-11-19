@@ -1,0 +1,5 @@
+numpy
+matplotlib
+torch
+stable-baselines3
+gymnasium            # the last three only for training
